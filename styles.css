@@ -1,1 +1,44 @@
 /* Write your CSS here! */
+
+body {
+    font-family: 'Georgia', serif;
+    font-size: 18px;
+    margin: 8px;
+    display: block;
+    /* background-color: gray; */
+ }
+
+ header{
+    text-align: center;
+ }
+
+ h1 {
+    padding: 8px;
+    text-align: center;
+    font-size: 50px;
+}
+
+p {
+    padding-bottom: 20px;
+}
+
+.funParagraph {
+    color: green;
+}
+
+#mainHeading {
+    color: red;
+    font-size: 75px;
+}
+
+#testP {
+    font-size:25px;
+}
+
+#id_logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    text-align: center;
+}
